@@ -1,0 +1,8 @@
+# Django To-Do App
+
+> A lightweight, web-based task management application built with Django that allows users to create, view, update, and delete daily tasks.
+
+## Core Capabilities
+- **Create Tasks:** Add new to-do items with titles and descriptions.
+- **Update Tasks:** Edit existing task details and mark tasks as completed.
+- **Delete Tasks:** Remove completed or unwanted tasks from the list.
